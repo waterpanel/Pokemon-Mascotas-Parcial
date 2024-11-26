@@ -17,4 +17,4 @@ Utilizamos librerias como Three.JS, DracoLoader, GLTFLoader, MTLLoader y OBJLoad
 
 puedes acceder al github de nuestro proyecto a partir del siguiente link:
 
-https://github.com/waterpanel/Pokemon-Mascotas-Parcial
+https://github.com/waterpanel/Pokemon-Mascotas-Parcial.git
