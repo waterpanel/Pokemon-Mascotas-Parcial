@@ -15,6 +15,8 @@ Para abrir correctamente el programa se debe de abrir el proyecto en visual stud
 
 Utilizamos librerias como Three.JS, DracoLoader, GLTFLoader, MTLLoader y OBJLoader 
 
+El mapa y el entorno fue modeloado por nosotros pero los modelos de los Pokemon fueron extraidos de un mod de minecraft llamado cobblemon: https://cobblemon.com/en
+
 puedes acceder al github de nuestro proyecto a partir del siguiente link:
 
 https://github.com/waterpanel/Pokemon-Mascotas-Parcial.git
